@@ -68,7 +68,7 @@
 
     <div class="content">
         <div class="title m-b-md">
-            Test Page yeet!
+            Test2 Page yeet!
         </div>
 
         <div class="links">
